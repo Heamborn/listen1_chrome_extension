@@ -1,6 +1,6 @@
 Listen 1 (Chrome Extension) V2.10.0
 ==========
-（最后更新于2020年07月10日）
+（最后更新于2020年07月16日） by lkc--test
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
